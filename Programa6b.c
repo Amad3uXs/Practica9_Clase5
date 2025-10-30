@@ -1,4 +1,5 @@
-
+/*David Alejandro Martínez Vega L´Englisse
+practica 9 ejercicio 6b*/
 
 #include <stdio.h>
 int main ()
